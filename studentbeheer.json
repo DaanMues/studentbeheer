@@ -34,4 +34,11 @@
         "email": "mike.ockslong@example.com",
         "course": "talen"
     }
+    {
+        "id": 6,
+        "name": "Geertje Beertje",
+        "age": 25,
+        "email": "geertje.beertje@example.com",
+        "course": "wiskunde"
+    }
 ]
