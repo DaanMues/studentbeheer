@@ -19,5 +19,12 @@
         "age": 22,
         "email": "marie.deboer@example.com",
         "course": "Wiskunde"
+    },
+    {
+        "id": 4,
+        "name": "Bilal Hira",
+        "age": 19,
+        "email": "bilal.hira@example.com",
+        "course": "programmeren"
     }
 ]
