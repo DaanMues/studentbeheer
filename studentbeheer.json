@@ -26,5 +26,12 @@
         "age": 19,
         "email": "bilal.hira@example.com",
         "course": "programmeren"
+    },
+    {
+        "id": 5,
+        "name": "Mike Ockslong",
+        "age": 25,
+        "email": "mike.ockslong@example.com",
+        "course": "talen"
     }
 ]
